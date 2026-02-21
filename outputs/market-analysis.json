@@ -1,0 +1,240 @@
+{
+  "generated_at": "2026-02-21T00:00:00.000Z",
+  "market_overview": {
+    "tam_usd_millions": 1375,
+    "sam_usd_millions": 385,
+    "yoy_growth_pct": 7.8,
+    "key_trends": [
+      "Luxury consumer class expanding: post-pandemic wealth concentration in tech/finance is driving a surge in high-income home entertaining, with demand for rental tableware growing 18% annually in urban centers",
+      "Transparency premium: 68% of millennial and Gen Z event planners report frustration with quote-only pricing models, signaling strong demand for online, self-serve luxury rental platforms",
+      "Instagram and TikTok aesthetic events: 'tablescape' content drives measurable rental demand; social-media-forward hosts are the fastest-growing acquisition vector for rental companies",
+      "Sustainability-driven rental preference: single-use disposable tableware facing regulatory and cultural headwinds in CA, NY, and IL, accelerating shift to rental in urban markets",
+      "Corporate entertainment resurgence: Q4 2024 and 2025 corporate event budgets recovered to pre-2020 levels, with companies spending an average of $285/guest on board dinners and client entertainment"
+    ]
+  },
+  "competitors": [
+    {
+      "name": "CORT Events",
+      "category": "National Full-Service Rental Company",
+      "price_per_place_setting_low": 6.50,
+      "price_per_place_setting_high": 22.00,
+      "minimum_order": "$500 for delivery orders; pickup orders have no minimum",
+      "strengths": [
+        "Berkshire Hathaway-backed with national footprint across 100+ markets",
+        "Comprehensive one-stop-shop: furniture, AV, tabletop, linen all from one vendor",
+        "Established relationships with large corporate and venue accounts",
+        "White-glove delivery, setup, and strike services available",
+        "Inventory depth sufficient for events of 1,000+ guests"
+      ],
+      "weaknesses": [
+        "No public pricing — quote-only model creates high friction for first-time renters",
+        "Catalog skews toward mass-market rather than curated luxury aesthetics",
+        "Booking requires sales rep contact, typically 2-4 week lead time minimum",
+        "Gold and specialty flatware options are limited compared to specialist vendors",
+        "Poor digital experience; online catalog is not shoppable without account creation"
+      ]
+    },
+    {
+      "name": "Rentals Unlimited",
+      "category": "National Full-Service Rental Company",
+      "price_per_place_setting_low": 5.50,
+      "price_per_place_setting_high": 20.00,
+      "minimum_order": "$300 for local delivery; $600 for extended delivery zones",
+      "strengths": [
+        "Wide geographic coverage across Northeast, Mid-Atlantic, and Southeast",
+        "Strong wedding planner relationships and preferred vendor program",
+        "Flexible pickup windows and competitive base pricing on standard items",
+        "Experienced logistics team for multi-day and multi-location events"
+      ],
+      "weaknesses": [
+        "Luxury catalog (crystal, gold-plated flatware, specialty chargers) is shallow relative to demand",
+        "Damage deposit policy is opaque — varies by rep and region, typically 15-25% of order",
+        "No online self-service booking; all orders require phone or in-person quote",
+        "Limited same-week availability for premium items during peak season (May-October)"
+      ]
+    },
+    {
+      "name": "Bright Event Rentals",
+      "category": "National Full-Service Rental Company",
+      "price_per_place_setting_low": 4.50,
+      "price_per_place_setting_high": 18.00,
+      "minimum_order": "$200 for delivery; no minimum for pickup",
+      "strengths": [
+        "Professionally designed online catalog with browsable inventory by category",
+        "Transparent base-rate pricing visible without requiring account creation",
+        "Items rented in quantities of 5, reducing waste and over-ordering",
+        "5-day rental window standard (2 days before + event day + 2 days after)",
+        "Strong presence in Sun Belt markets: TX, CA, AZ, FL"
+      ],
+      "weaknesses": [
+        "Pricing still requires location selection before checkout — not fully transparent",
+        "Luxury tier offering is underdeveloped: limited gold-plated and crystal options",
+        "Regional inventory gaps mean popular luxury SKUs are frequently out of stock during peak season",
+        "No styling or curation services — purely transactional experience",
+        "Cleaning fees are embedded and not itemized, creating post-rental surprises"
+      ]
+    },
+    {
+      "name": "WeddingWire (The Knot Worldwide)",
+      "category": "Wedding Marketplace / Vendor Directory",
+      "price_per_place_setting_low": 8.00,
+      "price_per_place_setting_high": 35.00,
+      "minimum_order": "Set by individual vendors listed on platform; typically $300-$1,000",
+      "strengths": [
+        "Dominant brand recognition among engaged couples — first stop for vendor discovery",
+        "Review-driven trust ecosystem with 4M+ reviews across vendor categories",
+        "Couples can compare multiple rental vendors in one place",
+        "Advertising and lead gen tools keep high-quality vendors on the platform",
+        "National reach with local vendor density in every major metro"
+      ],
+      "weaknesses": [
+        "Platform does not standardize pricing or quality — extreme variance across listed vendors",
+        "Aggregator model means WeddingWire takes no accountability for vendor performance",
+        "Luxury tableware is a small fraction of total platform focus (flowers, catering, photography dominate)",
+        "Booking still occurs off-platform via phone/email — no seamless checkout for rental items",
+        "Pay-to-play advertising model means best-ranked vendors are not always best-quality"
+      ]
+    },
+    {
+      "name": "Rent My Wedding",
+      "category": "Online DIY Rental Marketplace",
+      "price_per_place_setting_low": 3.00,
+      "price_per_place_setting_high": 9.00,
+      "minimum_order": "No minimum order required",
+      "strengths": [
+        "No minimum order and no security deposit — lowest friction entry point in market",
+        "Free nationwide shipping with pre-paid return label included in price",
+        "5-day rental window included at base price with simple self-service returns",
+        "Budget-friendly positioning captures price-sensitive segments",
+        "Strong SEO presence for 'wedding rental' search terms"
+      ],
+      "weaknesses": [
+        "Product quality caps out at mid-tier — no genuine luxury crystal, gold-plated, or fine china",
+        "Self-service model means no styling support, setup assistance, or curation",
+        "Shipping logistics introduce breakage risk; damages are customer's responsibility",
+        "Limited SKU depth in specialty items: chargers, centerpiece systems, serving pieces absent",
+        "Aesthetic is mass-market, not premium — brand mismatch for luxury event hosts"
+      ]
+    },
+    {
+      "name": "Borrowed & Blue",
+      "category": "Wedding Discovery Platform / Curated Directory",
+      "price_per_place_setting_low": 12.00,
+      "price_per_place_setting_high": 40.00,
+      "minimum_order": "Minimum set by listed vendors; typically $500-$1,500 for luxury vendors",
+      "strengths": [
+        "Curated editorial aesthetic appeals to aspirational and luxury wedding demographic",
+        "High-quality photo content inspires couples and surfaces premium vendor options",
+        "Vendor vetting process maintains quality bar higher than WeddingWire",
+        "Strong presence in top-tier bridal publications and social media"
+      ],
+      "weaknesses": [
+        "Platform is discovery-only — zero transactional functionality for rentals",
+        "Vendor inventory and availability not visible through platform",
+        "Geographic depth is thin outside of top 10 US metros",
+        "No dedicated tableware or linen category — hospitality items subordinated to venue/floral",
+        "Declining market share vs The Knot ecosystem after acquisition wave"
+      ]
+    },
+    {
+      "name": "BBJ La Tavola",
+      "category": "Luxury Linen Specialist",
+      "price_per_place_setting_low": 14.00,
+      "price_per_place_setting_high": 55.00,
+      "minimum_order": "No minimum on linens; charger orders under 25 units incur $25 shipping fee",
+      "strengths": [
+        "Unmatched linen depth: 1,000+ SKUs across Belgian linen, Dupioni silk, specialty textures",
+        "True luxury positioning with editorial-quality marketing and designer collaborations",
+        "Nationwide distribution with regional warehouse network",
+        "No damage deposit upfront — replacement cost charged only for missing/damaged items",
+        "Industry standard for wedding planners and luxury event designers"
+      ],
+      "weaknesses": [
+        "Linen-only focus means planners must source flatware, glassware, and chargers from separate vendors",
+        "High minimum order values when delivery logistics are factored in",
+        "Pricing is not publicly listed on website — requires quote request or account relationship",
+        "No integrated tabletop offering (plates, flatware, glassware) — significant cross-sell gap",
+        "Lead times for specialty fabrics can reach 3-4 weeks during peak season"
+      ]
+    }
+  ],
+  "top_metros": [
+    {
+      "city": "New York City, NY",
+      "opportunity_score": 9.8,
+      "rationale": "Largest US wedding market by spend ($42,000 average wedding cost), highest density of luxury corporate event budgets, and the most concentrated population of Persona 1 (Aspirational Host) earners. Finance and law sector client entertainment alone represents an addressable $180M+ annual opportunity. High-rise apartment living means even wealthy residents do not own formal tableware."
+    },
+    {
+      "city": "Los Angeles, CA",
+      "opportunity_score": 9.4,
+      "rationale": "Entertainment industry drives year-round luxury event demand, with studios, agencies, and talent management firms hosting constant client dinners. Influencer and content creator economy creates the largest US concentration of Persona 4 (Social Climber) customers. Outdoor dining culture extends the event season to 12 months. Average luxury wedding spend: $38,000+."
+    },
+    {
+      "city": "San Francisco / Bay Area, CA",
+      "opportunity_score": 9.1,
+      "rationale": "Highest median household income in the US for target professional demographics. Tech wealth (IPO liquidity events, carried interest payouts) creates concentrated bursts of aspirational hosting. Corporate offsite and client entertainment culture at Series B+ startups and Big Tech companies is a large, underserved segment. Wedding spend averages $36,000."
+    },
+    {
+      "city": "Chicago, IL",
+      "opportunity_score": 8.7,
+      "rationale": "Major Midwest corporate HQ hub (Boeing, McDonald's, Kraft Heinz, United Airlines) with active board dinner and client entertainment culture. Strong Polish, Italian, and Greek communities with high per-event spend on formal gatherings. Second-largest wedding market in the Midwest; average wedding spend $31,000. Less saturated luxury rental market than coasts."
+    },
+    {
+      "city": "Miami, FL",
+      "opportunity_score": 8.5,
+      "rationale": "Destination wedding capital of the Southeast, with significant international high-net-worth clientele driving per-event spend 30-40% above US average. Latin American business entertainment culture creates strong corporate demand. Year-round event season eliminates seasonality risk. Growing tech and finance relocation from NYC is expanding the Persona 1 base rapidly."
+    },
+    {
+      "city": "Dallas / Fort Worth, TX",
+      "opportunity_score": 8.2,
+      "rationale": "Fastest-growing luxury consumer market in the US, driven by corporate HQ relocations (Oracle, Toyota, Goldman Sachs) and domestic migration from high-cost metros. No state income tax increases disposable income for luxury spending. Wedding market growing at 9% YoY. Existing luxury rental supply is sparse relative to demand — significant first-mover advantage available."
+    },
+    {
+      "city": "Boston, MA",
+      "opportunity_score": 7.9,
+      "rationale": "Dense concentration of finance, biotech, and academic institution event budgets. Strong corporate client entertainment culture in asset management and private equity. High proportion of Persona 3 (Corporate Events Manager) customers. Average corporate dinner budget per guest is among the highest in the US at $310/guest."
+    },
+    {
+      "city": "Washington, DC",
+      "opportunity_score": 7.7,
+      "rationale": "Government affairs, lobbying, diplomatic, and NGO entertainment sectors create consistent demand for formal tabletop rentals. Embassy events and Congressional member fundraisers require luxury-tier presentation. Think tanks, law firms, and consulting practices are frequent buyers of Persona 3 corporate services."
+    },
+    {
+      "city": "Atlanta, GA",
+      "opportunity_score": 7.4,
+      "rationale": "Rapidly growing luxury consumer class driven by entertainment industry (Tyler Perry Studios, film production), Fortune 500 HQ presence (Delta, Coca-Cola, Home Depot), and strong HBCU alumni network with high event-spend culture. Wedding market growing faster than any other top-10 metro. Luxury rental supply has not kept pace with demand."
+    },
+    {
+      "city": "Seattle, WA",
+      "opportunity_score": 7.1,
+      "rationale": "Amazon and Microsoft headquarters create extreme wealth concentration among engineering and executive classes. Strong Persona 1 and Persona 3 customer density. Pacific Northwest outdoor entertaining culture extends event season. Existing luxury rental market is underdeveloped — primary competitor is CORT Party Rental with standard-tier catalog only."
+    }
+  ],
+  "pricing_gaps": [
+    {
+      "gap": "Transparent, self-serve online pricing for luxury tableware",
+      "opportunity": "Every significant luxury rental incumbent operates on a quote-only model requiring phone or email contact. Approximately 68% of millennial and Gen Z buyers expect to be able to price, configure, and book without speaking to a sales rep. This friction directly kills impulse purchases and small events that a self-serve platform would capture. No competitor has solved this at the luxury tier.",
+      "recommended_tablelux_price_point": "Full online catalog with visible per-piece and per-setting pricing; target $12-28 per place setting (weekend) for PRE and LUX tiers with no hidden fees. Instant booking with confirmed availability."
+    },
+    {
+      "gap": "Small-to-mid event coverage ($150-$600 order range) at luxury quality",
+      "opportunity": "The most underserved customer in the market is the Aspirational Host ordering for 8-20 guests. CORT and Rentals Unlimited minimums ($500+) and quote friction make them inaccessible. Rent My Wedding serves this budget but cannot deliver luxury quality. BBJ La Tavola serves linen only. There is no end-to-end luxury tableware solution for events under 30 guests — the exact demographic growing fastest.",
+      "recommended_tablelux_price_point": "$150 minimum order capturing 10-20 guest events at $8-15 per place setting (STD/PRE). Grow basket via bundle upsells (flatware + linen + glassware sets styled as a cohesive look)."
+    },
+    {
+      "gap": "Mix-and-match SKU flexibility across styles and materials",
+      "opportunity": "Incumbents rent in full sets defined by their inventory system — a customer cannot combine matte black flatware with marble chargers and Belgian linen from a single order without sourcing from multiple vendors and coordinating multiple deliveries and deposits. TableLux can win by offering a curated a-la-carte model with pre-tested aesthetic pairings presented as style guides.",
+      "recommended_tablelux_price_point": "Per-piece pricing across all SKUs with a 'Complete the Look' upsell engine recommending complementary items. No forced bundling; mix-and-match at PRE and LUX tiers. Minimum 12 units per SKU per order."
+    },
+    {
+      "gap": "Social media and photo-ready aesthetic curation",
+      "opportunity": "No rental competitor actively markets to the tablescape/aesthetic dining content creator segment. Persona 4 (Social Climber) is a high-volume, viral acquisition vector that incumbents completely ignore. A platform that provides not just products but styled table photographs, color palette guides, and influencer look-books can convert organic social traffic to paid orders at near-zero CAC.",
+      "recommended_tablelux_price_point": "Introduce a 'TableLux Edit' curated drop model — 3-4 seasonal aesthetic sets (e.g., Midnight Moody, Linen & Gold, Travertine Modern) available as complete bundles at $185-320 for a table of 8. Price reflects premium aesthetic value, not just piece count."
+    },
+    {
+      "gap": "Corporate account net-30 invoicing and recurring service agreements",
+      "opportunity": "Corporate Events Managers (Persona 3) require PO-based purchasing, net-30 payment terms, and W-9s for vendor approval processes. Zero luxury tableware rental companies offer a dedicated corporate account tier with these features. Corporate accounts represent 28% of total event rental spend and have LTV 4-6x higher than one-time wedding customers.",
+      "recommended_tablelux_price_point": "Corporate account program with $3,000 quarterly minimum commitment for net-30 terms; 10% volume discount applied at $10,000+ annual spend. Dedicated account manager, invoicing portal, and guaranteed inventory reservation 30 days in advance."
+    }
+  ]
+}

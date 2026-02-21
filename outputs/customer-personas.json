@@ -1,0 +1,259 @@
+{
+  "generated_at": "2026-02-21T00:00:00.000Z",
+  "personas": [
+    {
+      "persona_id": "P1_ASPIRATIONAL_HOST",
+      "name": "Marcus Chen",
+      "archetype": "The Aspirational Host",
+      "age_range": "35-45",
+      "income_range": "$200,000 – $400,000",
+      "location": "Upper East Side, New York City",
+      "occupation": "VP of Investment Banking, Morgan Stanley",
+      "household": "Single or partnered, no children yet. Rents a 1,400 sq ft apartment — no storage for formal entertaining ware.",
+      "event_profile": "Hosts 6-8 dinner parties per year for 10-14 guests. Guests are colleagues, clients, and upwardly mobile friends. Events are sit-down, multi-course, with hired private chef 2-3 times a year. The table is as important to him as the food.",
+      "backstory": "First-generation wealth. Parents ran a dim sum restaurant in Flushing, Queens. Marcus grew up clearing tables and now sets them — differently. He earned his way into rooms his parents never entered and he is acutely aware that the way a table looks is a form of fluency he is still learning. He does not want help: he wants tools that make him look like he already knows.",
+      "functional_job": "Set a complete, cohesive luxury table for 10-14 guests that looks like it belongs in a Michelin-starred private dining room — without owning any of the pieces, without calling a sales rep, and without coordinating more than one vendor.",
+      "emotional_job": "Feel like his success is tangible and visible in the spaces he controls. The table is proof that he belongs in the world he has built his way into — not an outsider performing affluence, but someone whose taste is authentic and fully his own.",
+      "social_job": "Have guests leave his apartment thinking 'Marcus has real taste' — not 'Marcus has money.' The distinction matters deeply to him. He wants admiration for refinement, not for spending.",
+      "pain_points": [
+        "Every luxury rental company he has found requires a phone call or an emailed quote request — a friction that kills the impulse that drives his bookings (Saturday morning, planning a dinner for next Friday)",
+        "CORT Events and Rentals Unlimited have $500+ delivery minimums, which forces him to over-order for 12 guests or pay for inventory he does not use",
+        "The one time he rented 'gold flatware' from a catering company, it arrived looking like gold-painted hotel banquet ware — he has no way to verify quality before committing",
+        "Coordinating linen from one vendor, flatware from another, and glassware from a third means three separate deliveries, three damage deposits, and three return logistics — he has a demanding job and genuinely cannot manage this",
+        "He cannot find a rental catalog with the specific aesthetic he is building toward: Carrara marble, brushed gold, Belgian linen — not the beige-and-polished-steel look that dominates most rental catalogs",
+        "Rental companies in his experience treat small orders (under $800) as low priority — he has been ghosted on quote requests more than once"
+      ],
+      "hiring_criteria": [
+        "Browse the full catalog with visible pricing and real-time availability online — no account creation, no form submission, no waiting",
+        "Order a complete aesthetic (flatware + chargers + glassware + linen) from a single cart and a single delivery",
+        "Minimum order threshold he can hit without over-ordering — $150 minimum means a 12-person setting is achievable without padding",
+        "Product photos that are honest and detailed enough to know exactly what will arrive — not styled shots that hide quality issues",
+        "Delivery and pickup window that fits around his schedule: Thursday delivery, Monday pickup — not a rigid 24-hour window",
+        "A brand he is not embarrassed to tell his guests about — 'I used TableLux' should be a flex, not a confession"
+      ],
+      "willingness_to_pay_usd": 650,
+      "average_order_value_usd": 420,
+      "available_quantity": 0,
+      "expected_ltv_usd": 7350,
+      "ltv_assumptions": "6 events/year × $420 AOV × 2.5 active years. Churn driver: may invest in owning select pieces after 2-3 years as income grows. Referral value not included.",
+      "acquisition_channels": [
+        "Google Search — high-intent queries like 'luxury tableware rental NYC,' 'crystal glassware rental for dinner party,' 'gold flatware rental no minimum'",
+        "Instagram — discovers through tablescape content saved in his private collection board; converts when he finds a brand with an aesthetic matching his aspiration",
+        "Pinterest — saves styled table images; TableLux can own the SEO for luxury tablescape content with styled editorial photos",
+        "Word-of-mouth from peers in finance/tech/law who have hosted successfully — this cohort shares vendor recommendations actively in group chats",
+        "Food & Wine, Bon Appétit editorial coverage — he reads these publications and trusts their product recommendations"
+      ],
+      "price_sensitivity": "Moderate. He will not chase the lowest price — he has crossed the income threshold where price signals quality. But he will not overpay for something that does not deliver the aesthetic he is paying for. Reliability and visual fidelity matter more than absolute price.",
+      "objections_to_overcome": [
+        "Will it actually look like the photo? (Address with high-fidelity product photography and customer-submitted event photos)",
+        "Is the return process going to be a hassle? (Address with prepaid pickup scheduling and extended return windows)",
+        "What if something breaks? (Address with transparent damage deposit policy and clear per-piece replacement costs)"
+      ]
+    },
+    {
+      "persona_id": "P2_WEDDING_COORDINATOR",
+      "name": "Sophia Reyes",
+      "archetype": "The Wedding Coordinator",
+      "age_range": "30-42",
+      "income_range": "$90,000 – $220,000 (owner/operator, revenue tied to event volume)",
+      "location": "Brooklyn, NY — serves NYC metro, Hamptons, Hudson Valley, and destination weddings in Miami and Charleston",
+      "occupation": "Owner, Amore Events. Boutique wedding planning firm with 2 full-time coordinators and seasonal support staff.",
+      "household": "Married, one child. Her business is her identity — she checks vendor emails at 11pm because a planner's reputation is permanently fragile.",
+      "event_profile": "Plans 28-35 weddings per year. Client budgets range from $90,000 to $310,000. She controls every vendor decision: florals, linen, tabletop, furniture, AV. Her clients trust her completely and defer to her recommendations. She is not a consultant — she is the decision-maker.",
+      "backstory": "Sophia started as a coordinator at a large NYC events firm and went independent at 28 after getting frustrated watching senior planners recommend vendors based on kickbacks, not quality. She has built her business on vendor integrity — she only recommends products she has personally vetted. Her Instagram (@amore.events) has 41K followers and her referral network is the backbone of her revenue. She has worked with BBJ La Tavola for linen for 6 years but has never found a single vendor who can do linen AND tabletop at the quality level her clients expect.",
+      "functional_job": "Source a complete, cohesive, high-quality tabletop setup for 80-180 guests per wedding — flatware, chargers, plates, glassware, linen, and centerpiece structures — from a single vendor, with a single invoice, guaranteed availability 8-12 weeks out, and zero day-of surprises.",
+      "emotional_job": "Feel the deep professional confidence that comes from knowing every element of the table is handled. Her name is on every wedding. When the tablescape photographs beautifully and the bride messages her the next morning saying 'everyone asked about the table,' that is the highest validation her career produces.",
+      "social_job": "Be recognized in the wedding industry as a planner who has access to products and vendors her peers do not — someone whose tables are distinctive enough that other planners ask her where she sources. She is not a vendor aggregator; she is a taste authority.",
+      "pain_points": [
+        "BBJ La Tavola is exceptional for linen but forces her to source flatware, chargers, plates, and glassware from 2-3 additional vendors — in peak season (May-October), she is coordinating 6-8 vendor relationships per wedding, each with separate deliveries, deposits, and return logistics",
+        "Damage deposits across multiple vendors tie up $4,000-$9,000 of her working capital during the 6-month peak season — a real cash flow constraint for a small business",
+        "Luxury flatware and specialty chargers are out of stock with her current vendors 40% of the time during peak season — she has had to compromise on product for clients who were promised a specific aesthetic",
+        "No rental company she works with offers a planner account with priority booking or inventory reservation — she is treated identically to a first-time retail customer every time",
+        "She currently submits separate invoices from 3-4 vendors per wedding to her clients for expense accounting — a logistical burden that makes her business appear less organized than it is",
+        "When a rental item arrives damaged or wrong, she has to solve it the morning of the wedding with no support infrastructure — every vendor's customer service is 'call us Monday'"
+      ],
+      "hiring_criteria": [
+        "A dedicated planner account tier with a named account manager she can text or email directly — not a general customer service line",
+        "Real-time inventory availability calendar she can check before quoting clients on specific SKUs",
+        "Full tabletop capability in one order: flatware + chargers + plates + glassware + linen + centerpiece structures — the only company she currently knows that comes close is CORT, but their luxury catalog is inadequate",
+        "Volume pricing or referral program that reflects her 28-35 events/year spend — she should not be paying the same per-piece rate as a retail customer placing a $300 order",
+        "Guaranteed 8-week advance booking window for priority accounts, with a reserve-now-pay-later option for confirmed weddings",
+        "Single consolidated invoice per event with itemized line items for client billing",
+        "Quality consistency across every order — she cannot have marble chargers that vary in appearance wedding to wedding; her clients talk to each other"
+      ],
+      "willingness_to_pay_usd": 4500,
+      "average_order_value_usd": 2200,
+      "available_quantity": 0,
+      "expected_ltv_usd": 148000,
+      "ltv_assumptions": "Assumes 20 events/year using TableLux (60% of annual volume, as she maintains some existing vendor relationships) × $2,200 AOV × 3.5 active years. The single highest-LTV customer type in the TableLux portfolio. Converting 5 planners of Sophia's profile generates $740,000 in cumulative revenue.",
+      "acquisition_channels": [
+        "Direct outreach via NACE (National Association for Catering and Events) and WIPA (Wedding International Professionals Association) preferred vendor programs",
+        "Gifted styled shoot partnership — offer 1 complimentary full tabletop rental for a styled shoot Sophia is producing; if she loves the product, she becomes an advocate to her peer network immediately",
+        "WeddingWire/The Knot planner community forums — she is active in professional threads where vendor recommendations circulate",
+        "Instagram — she follows vendor accounts and is actively looking for premium tabletop options; a well-produced product video of a full table setting will stop her scroll",
+        "Peer referral from another planner who has used TableLux — this is the highest-conversion channel because trust in this community is earned through vouching, not advertising"
+      ],
+      "price_sensitivity": "Low on price, high on quality and reliability. She has walked away from cheaper vendors after a single bad experience and will pay a 20-30% premium for a vendor she trusts. Her clients are spending $90K-$310K on their weddings — a $400 difference in tabletop cost is irrelevant compared to the risk of a bad vendor experience.",
+      "objections_to_overcome": [
+        "Is this vendor reliable enough to stake my reputation on? (Address with a guaranteed service agreement, a named account manager, and references from other planners)",
+        "Can they actually handle 28 events a year at the volume I need? (Address with a planner capacity overview and inventory depth data)",
+        "What happens if something goes wrong on the wedding day? (Address with a same-day support line and replacement guarantee for planner accounts)"
+      ]
+    },
+    {
+      "persona_id": "P3_CORPORATE_EVENTS",
+      "name": "Diana Park",
+      "archetype": "The Corporate Events Manager",
+      "age_range": "36-48",
+      "income_range": "$75,000 – $130,000 (W-2 employee; spends company budget, not personal funds)",
+      "location": "Chicago, IL (serves the downtown Salesforce tower and coordinates for satellite offices in NYC and Boston)",
+      "occupation": "Senior Events and Executive Experience Manager, Salesforce Midwest",
+      "household": "Married, two kids in school. Her job is to be invisible and excellent — events should feel effortless; her labor should not show.",
+      "event_profile": "Plans 4-6 quarterly board dinners for 18-28 C-suite attendees and external board members. Plans 3-4 client entertainment dinners per year at Salesforce's private dining suite or partner restaurants. Has a standing $280,000 annual events budget with discretionary authority up to $22,000 per event without executive approval.",
+      "backstory": "Diana spent 8 years as an executive assistant before transitioning into a dedicated events role as her company's entertainment calendar expanded post-2022. She has seen the difference between a caterer who shows up with hotel banquet ware and a table that actually communicates that the company values the client sitting across from it. She lost a preferred vendor two years ago when their quality declined, and has been cobbling together solutions ever since. She has an AP department, a procurement checklist, and a 14-step vendor approval process — she needs a vendor who can navigate this, not one who bounces her request back to 'just use your card.'",
+      "functional_job": "Procure complete luxury tableware for 18-28 person formal dinners on a 3-5 week planning timeline, with a single vendor invoice formatted for AP submission, net-30 payment terms, a W-9 on file, and consistent product quality across every event — without spending more than 4 hours of her time per event on vendor coordination.",
+      "emotional_job": "Feel like a competent, strategically valuable member of the business development team — not a logistics coordinator. When a regional VP pulls her aside after a client dinner and says 'that was the best event we've done all year,' she has done her job at the level she measures herself against.",
+      "social_job": "Be seen by her executive stakeholders as the person who makes the company look like it takes hospitality seriously — someone who understands that the experience around the table is part of the pitch, not decoration. She wants the CMO to stop requesting catering-company setups and start deferring to her judgment.",
+      "pain_points": [
+        "No luxury tableware rental company offers net-30 invoicing — she is forced to put $3,500-$6,000 on a corporate card and wait for expense report reimbursement, which her CFO has flagged twice as outside preferred vendor policy",
+        "Her procurement department requires a W-9, a Certificate of Insurance ($1M general liability), and a completed vendor questionnaire before a new vendor can be approved — most small rental companies either cannot provide these or take 3-4 weeks to respond",
+        "Board dinner dates are set by the CEO's office with 2-3 weeks notice — luxury rental companies routinely tell her they need 6-8 weeks lead time for premium inventory; she has been forced to use hotel catering tableware as a fallback, which she finds professionally humiliating",
+        "The one time she ordered 'gold flatware' from an events company, the pieces arrived with uneven plating that photographed as brass under the dining room's warm lighting — the CFO noticed and said nothing, which was worse than if he had said something",
+        "She has no single tabletop vendor relationship — every event she starts from scratch with whoever can fulfill on short notice, leading to inconsistency in aesthetic across events that clients who attend multiple dinners will notice",
+        "Rental companies treat her as a one-time retail customer — she has no account status, no pricing leverage, and no priority access to inventory despite spending $25,000-$40,000 per year across multiple vendors"
+      ],
+      "hiring_criteria": [
+        "Corporate account tier with net-30 payment terms and AP-formatted invoicing — this is a non-negotiable; without it, she cannot get the vendor through procurement approval",
+        "W-9 and Certificate of Insurance available on request within 48 hours — she has been burned by vendors who cannot produce these quickly",
+        "3-week guaranteed lead time for standing corporate accounts — she needs this committed in writing as part of the account agreement",
+        "Consistent, photographable product quality — she needs to know that marble charger #14 at a dinner in March looks identical to marble charger #14 at a dinner in October",
+        "A dedicated account manager reachable by email and text during business hours — not a general customer service queue",
+        "Clear, itemized damage policy with capped liability exposure — her procurement team will not approve open-ended damage liability",
+        "Ability to set up a standing order template (e.g., 'Standard Board Dinner for 24') that she can activate with a single email and minimal modification"
+      ],
+      "willingness_to_pay_usd": 5500,
+      "average_order_value_usd": 2400,
+      "available_quantity": 0,
+      "expected_ltv_usd": 86400,
+      "ltv_assumptions": "9 events/year × $2,400 AOV × 4 active years. Corporate account retention is high once a vendor clears the procurement approval process — switching costs (re-approval paperwork, re-vetting) are significant. AOV reflects Week rental period pricing (1.8x multiplier on PRE/LUX tier for 24 guests full setting).",
+      "acquisition_channels": [
+        "LinkedIn outbound — targeting EA/events manager job titles at 200+ employee companies in top metro markets; the audience is definable and reachable with a targeted message about net-30 corporate accounts",
+        "PCMA (Professional Convention Management Association) and MPI (Meeting Professionals International) member directories — Diana is an active member and attends chapter events where vendor relationships are made",
+        "Google Search — high-intent terms like 'corporate event tableware rental net-30,' 'luxury table rental corporate invoice,' 'board dinner tableware Chicago rental'",
+        "Referral from a hotel concierge or private dining manager who recommends TableLux for in-suite client entertainment — these referrals carry institutional trust",
+        "Targeted outreach via corporate EA/events manager communities on LinkedIn Groups and Slack communities (e.g., EA Collaborative, Executive Assistant Network)"
+      ],
+      "price_sensitivity": "Low. Corporate budgets are pre-approved and she is spending her company's money, not her own. She will pay a premium for a vendor who eliminates procurement friction and reduces her professional risk. The $400 difference between a standard vendor and a TableLux corporate account is irrelevant to her — the 4 hours she saves on vendor management per event is not.",
+      "objections_to_overcome": [
+        "Can you provide W-9, COI, and vendor questionnaire in the timeline procurement requires? (Address with a pre-built vendor onboarding packet that can be delivered within 48 hours)",
+        "Will you actually be available on 3 weeks' notice? (Address with a corporate account guarantee agreement and standing inventory reservation)",
+        "What is the damage liability exposure? (Address with clearly capped per-piece replacement costs and transparent deposit policy in writing)"
+      ]
+    },
+    {
+      "persona_id": "P4_SOCIAL_CLIMBER",
+      "name": "Zoe Kim",
+      "archetype": "The Social Climber",
+      "age_range": "27-35",
+      "income_range": "$80,000 – $130,000",
+      "location": "West Hollywood, Los Angeles",
+      "occupation": "Brand Partnerships Manager, fashion media company. Side income from Instagram brand deals (~$18K/year).",
+      "household": "Rents a 720 sq ft apartment with a dining nook that can seat 8. Her apartment is aggressively styled — renter-friendly gallery wall, bouclé sofa, dried botanicals. It is her content studio as much as it is her home.",
+      "event_profile": "Hosts 8-12 'aesthetic dinner parties' per year for 6-10 guests. Guests are brand managers, content creators, stylists, and junior media executives. The dinner is a content event first and a social event second — she spends 45 minutes photographing the table before anyone sits down.",
+      "backstory": "Zoe grew up middle class in Irvine, California, and moved to LA at 23. She has 68,000 Instagram followers built on home aesthetic and lifestyle content. She earns enough from brand deals to fund a lifestyle that is slightly ahead of her salary — she prioritizes experience and appearance over savings. She knows the difference between looking wealthy and being wealthy, and she has become expert at manufacturing the former. She is not cynical about this — she genuinely loves beautiful tables. She just also understands that a photograph of a marble charger and crystal glass gets 3x the engagement of a photograph of her face.",
+      "functional_job": "Create a table that produces one hero photograph compelling enough to drive 200+ saves on Instagram — using rented pieces she does not have to store, clean, or own — for 6-10 guests at a price point that feels like a splurge but not a financial decision.",
+      "emotional_job": "Feel like a main character in her own aesthetic life. Not someone trying to look wealthy, but someone whose taste is so developed and effortless that the beautiful table is just a natural expression of who she is. The feeling she is chasing is the one her followers project onto her — that this is just how she lives.",
+      "social_job": "Have her followers see a table photo and save it because it is aspirational — and then see @tablelux tagged in the corner and go check what it is. She wants to be a discovery node for the brand: someone whose content makes her followers say 'of course Zoe found this first.'",
+      "pain_points": [
+        "Every rental company she has investigated has a minimum order of $300-$500 and a catalog that looks like it was designed for hotel banquet halls — not for a 6-person dinner party in a West Hollywood apartment",
+        "Rent My Wedding had the right price point ($0/deposit, no minimum) but the flatware photographed like diner silverware under her ring light — she posted one photo and deleted it within an hour",
+        "She cannot find a rental company with a social media presence worth sharing — no aesthetic, no styled content, no tagging structure that lets her followers discover the brand organically through her post",
+        "The return process at traditional rental companies requires a weekday drop-off or a $60 pickup fee — she is at her office Monday through Friday and the logistics of renting for a Saturday dinner are friction she resigns herself to rather than solving",
+        "She wants to mix materials — matte black flatware with a marble charger and a dusty rose linen — but every rental company she has found forces full-set bundles where all the pieces match each other in a generic 'formal' aesthetic she does not want",
+        "She has a $280 personal budget for the rental component of a dinner party; most luxury rental companies either cannot serve her at that price point or do not bother to market to her"
+      ],
+      "hiring_criteria": [
+        "A minimum order she can hit for 8 guests without forced over-ordering — the $150 minimum is the threshold that unlocks this segment",
+        "Pre-curated aesthetic bundles with names and styled photographs she can reference exactly: 'I want the Midnight Moody set for 8' should be a single click, not a configuration exercise",
+        "Matte black flatware, marble chargers, and crystal glassware — specifically the items that photograph with texture and contrast; she has a clear visual vocabulary and needs a catalog that speaks it",
+        "A brand Instagram account with content that looks like her feed — not a corporate events company account with banquet hall photos",
+        "Return logistics that do not require a weekday trip: prepaid label, extended Monday pickup, or a drop-off window that fits a working person's weekend",
+        "An affiliate or creator program that rewards her when her followers convert — she is producing marketing content for every vendor she tags; she expects to eventually be paid for it"
+      ],
+      "willingness_to_pay_usd": 295,
+      "average_order_value_usd": 195,
+      "available_quantity": 0,
+      "expected_ltv_usd": 4200,
+      "ltv_assumptions": "10 events/year × $195 AOV × 2.0 active years (churn as income grows and she may transition to Persona 1 behavior, or begin owning select pieces). Direct LTV: $3,900. Does not include referral value: each tagged post drives an estimated 3-6 organic conversions from her 68K following, worth approximately $1,200-$2,400 in indirect customer acquisition value per post.",
+      "acquisition_channels": [
+        "Instagram organic — she discovers through the explore page or through a tastemaker she follows tagging a table; the product must be aesthetically distinctive enough to stop her scroll",
+        "TikTok 'tablescape' content — she watches and saves 'table setup for dinner party' videos; a TableLux 'unboxing + styling' format video targets her exactly",
+        "Pinterest — she has 340+ pins in a 'table goals' board; TableLux styled photographs with Pinterest SEO will appear in her searches for 'matte black table setting' and 'marble charger dinner party'",
+        "Micro-influencer gifted rental program — 3-5 creators in the 20K-100K follower range with home aesthetic content in LA and NYC; gifted rental at cost ($200 in product) generates authentic content reaching a warm audience",
+        "Referral from a friend in her social circle who has used TableLux and shown up to her dinner party with better tableware than she expected — this peer validation is the highest-conviction trigger for her"
+      ],
+      "price_sensitivity": "High in absolute dollars, but highly susceptible to perceived value signaling. She will pay $295 for something that photographs as a $900 table. She will not pay $295 for something that looks like what it cost. The framing matters as much as the price: 'Luxury table for 8 starting at $185' converts better for her than a catalog that leads with per-piece pricing she has to calculate.",
+      "objections_to_overcome": [
+        "Will it actually look like that in my apartment, with my lighting? (Address with customer-submitted photos from real home settings, not styled studio shots)",
+        "Is the return going to ruin my Sunday? (Address with prepaid return label and extended pickup scheduling through Tuesday)",
+        "Is there a creator program? (Address with an affiliate program launch for creators 10K+ followers, with a trackable code and 12% commission on first-time orders)"
+      ]
+    }
+  ],
+  "go_to_market_priority": [
+    "P2_WEDDING_COORDINATOR",
+    "P1_ASPIRATIONAL_HOST",
+    "P3_CORPORATE_EVENTS",
+    "P4_SOCIAL_CLIMBER"
+  ],
+  "go_to_market_rationale": {
+    "P2_WEDDING_COORDINATOR_first": "Sophia is the highest-LTV customer in the portfolio at $148K over 3.5 years. More importantly, she is a multiplier: converting 1 wedding coordinator converts 28-35 events per year automatically. The market analysis confirmed BBJ La Tavola's critical weakness — linen-only focus means planners must source tabletop separately. TableLux can position directly against this gap in the first 60 days of launch by offering the integrated tabletop solution no competitor has built. Target: 10 planner accounts in NYC, LA, Chicago in months 1-6. Revenue goal: $1.1M in year 1 from planner accounts alone.",
+    "P1_ASPIRATIONAL_HOST_second": "Marcus addresses the transparent pricing gap identified as the #1 market opportunity. His cohort (finance/tech/law professionals, $200K-$400K income, top metros) is the largest addressable segment by customer count. They are discoverable through Google Search and Instagram at manageable CAC ($90-140). With a $150 minimum and self-serve booking, TableLux captures demand that every incumbent is losing to friction. Launch simultaneously with planner outreach — this segment validates the product-market fit for the consumer-facing platform.",
+    "P3_CORPORATE_EVENTS_third": "Diana's LTV ($86K) is compelling, but her segment requires operational infrastructure that takes 60-90 days to build: net-30 payment processing, vendor onboarding packets (W-9, COI), AP-formatted invoicing, and a corporate account SLA. Begin corporate outreach in month 3 once the operational layer is in place. A single converted corporate account with 9 events/year at $2,400 AOV generates $21,600 annually — the payback period on a dedicated sales effort is under 90 days.",
+    "P4_SOCIAL_CLIMBER_fourth": "Zoe is the lowest-AOV persona at $195, but she is the viral acquisition vector for all other personas. Her content is the top-of-funnel for Persona 1 discovery. Launch the micro-influencer gifting program in month 4, after the catalog is fully photographed and the brand Instagram account has at least 60 posts. Launching too early risks viral reach before the brand is ready to convert traffic. The affiliate/creator program ($10-15K investment) should generate 200-400 organic orders in year 1 at near-zero incremental CAC."
+  },
+  "launch_channel_recommendations": [
+    {
+      "channel": "Luxury Wedding Planner Direct Outreach + Gifted Styled Shoot Program",
+      "target_personas": ["P2_WEDDING_COORDINATOR"],
+      "rationale": "The single highest-ROI investment TableLux can make at launch. Identify 40 luxury wedding planners in NYC and LA with 15+ weddings/year and offer a complimentary full tabletop rental for a styled shoot. Planners who love the product become accounts immediately. Those who post about the shoot generate brand content to 30K-80K followers in the exact target audience. Each converted planner is worth $148K LTV. 10 converted planners = $1.48M. CAC includes: gifted rental (~$800 at cost), outreach time (~$200), and follow-up time (~$100). Expected conversion rate: 35-40% of planners who participate in the gifted shoot.",
+      "estimated_cac_usd": 145,
+      "expected_ltv_to_cac_ratio": "1,021:1"
+    },
+    {
+      "channel": "Google Search Ads — Luxury Tableware Rental Keywords",
+      "target_personas": ["P1_ASPIRATIONAL_HOST", "P3_CORPORATE_EVENTS"],
+      "rationale": "Both Marcus and Diana begin their search on Google with high-intent keywords. The market analysis confirmed that 68% of their demographic expects to book without speaking to a sales rep — they are not finding incumbents satisfying because incumbents hide behind quote forms. TableLux's self-serve catalog with transparent pricing is the only result that actually converts this intent. Target keywords: 'luxury tableware rental [city],' 'crystal glassware rental for dinner party,' 'gold flatware rental no minimum,' 'corporate event tableware rental net-30.' Expected CPC: $2.80-$4.20 for local targeting. Conversion rate at 3.2% yields CAC of ~$125 for Persona 1 and ~$280 for Persona 3 (lower conversion due to procurement cycle length).",
+      "estimated_cac_usd": 130,
+      "expected_ltv_to_cac_ratio": "57:1 (blended P1/P3)"
+    },
+    {
+      "channel": "Instagram + Pinterest Organic Editorial Content",
+      "target_personas": ["P1_ASPIRATIONAL_HOST", "P4_SOCIAL_CLIMBER"],
+      "rationale": "The market analysis identified 'tablescape' content as the fastest-growing organic acquisition vector in the luxury rental market, with no incumbent owning it. TableLux should publish 3 styled table editorial posts per week on Instagram and pin 10-15 images per week on Pinterest before launch. Topics: specific aesthetic bundles ('How to Build the Midnight Moody Table for 8'), behind-the-scenes sourcing content, and user-submitted event photos. Pinterest SEO on terms like 'luxury dinner party table setting' and 'marble charger table decor' drives passive, high-intent traffic with near-zero marginal cost. Estimated cost: $3,500/month for a part-time content creator. CAC through this channel is driven almost entirely by content production cost.",
+      "estimated_cac_usd": 28,
+      "expected_ltv_to_cac_ratio": "272:1 (blended P1/P4)"
+    },
+    {
+      "channel": "Micro-Influencer Gifting Program — Home Aesthetic Creators (20K-100K followers)",
+      "target_personas": ["P4_SOCIAL_CLIMBER", "P1_ASPIRATIONAL_HOST"],
+      "rationale": "Target 15-20 creators in the home aesthetic, food styling, and lifestyle verticals in LA, NYC, and Chicago. Gift a full table rental at cost ($180-$250 in product) in exchange for one Instagram post and one TikTok or Reel. Each post reaches 20K-100K warm followers in the exact target demographic. The product photographs itself — TableLux pieces are specifically chosen to be visually distinctive in photo. Expected: each gifted post drives 3-8 organic bookings from followers. At an AOV of $260 blended and 5 conversions per post: $1,300 revenue per $220 in gifted product. Include a creator-specific discount code to track conversion. Launch in month 4 after brand photography is complete.",
+      "estimated_cac_usd": 52,
+      "expected_ltv_to_cac_ratio": "84:1 (blended P4/P1)"
+    },
+    {
+      "channel": "LinkedIn Outbound — Corporate Events Manager & Executive Assistant Targeting",
+      "target_personas": ["P3_CORPORATE_EVENTS"],
+      "rationale": "Diana's title (Senior Events Manager, Executive Assistant, Executive Experience Manager) is highly targetable on LinkedIn. Build a sequence: connection request → personalized message leading with the net-30 and 3-week guarantee angle ('We built TableLux specifically for corporate events teams who can't wait 8 weeks for a luxury tableware vendor to respond') → follow-up with a corporate account overview PDF. Target companies: 200-2,000 employees in finance, tech, consulting, and law in NYC, Chicago, SF, Boston, DC. Expected connection acceptance: 28%. Response rate from personalized message: 12%. Sales cycle: 3-6 weeks (procurement approval). Estimated 1 corporate account conversion per 180 outreach contacts. At $86K LTV, this channel pays back in the first event.",
+      "estimated_cac_usd": 340,
+      "expected_ltv_to_cac_ratio": "254:1"
+    },
+    {
+      "channel": "NACE / WIPA Industry Event Sponsorship + Planner Preferred Vendor Program",
+      "target_personas": ["P2_WEDDING_COORDINATOR"],
+      "rationale": "The National Association for Catering and Events (NACE) and Wedding International Professionals Association (WIPA) both run regional chapter events where planners network and discover new vendors. A $2,500 chapter sponsor spot gets TableLux in front of 60-120 active planners in a single evening — the exact audience who controls $2,200 AOV decisions 28-35 times per year. Pair sponsorship with a planner preferred vendor program: approved planners get 8% volume discount and priority inventory access in exchange for a $5,000 annual booking commitment. The planner preferred vendor program converts the CAC into a contractual revenue relationship.",
+      "estimated_cac_usd": 185,
+      "expected_ltv_to_cac_ratio": "800:1"
+    }
+  ]
+}
