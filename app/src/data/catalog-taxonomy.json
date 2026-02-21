@@ -1,0 +1,422 @@
+{
+  "generated_at": "2026-02-21T00:00:00.000Z",
+  "pricing_model": {
+    "minimum_order_usd": 150,
+    "damage_deposit_pct": 25,
+    "cleaning_fee_per_piece": 0.50,
+    "rental_periods": [
+      {
+        "name": "Weekend",
+        "days": 4,
+        "price_multiplier": 1.0,
+        "notes": "Friday pickup through Monday return. Base price. Covers Friday evening through Sunday event."
+      },
+      {
+        "name": "Week",
+        "days": 7,
+        "price_multiplier": 1.8,
+        "notes": "7-day window. Ideal for multi-day events, destination weddings, or venue installs requiring extended setup time."
+      },
+      {
+        "name": "Extended",
+        "days": 30,
+        "price_multiplier": 3.0,
+        "notes": "30-day corporate account window. Requires approved corporate account with net-30 payment terms and $3,000 quarterly minimum."
+      }
+    ]
+  },
+  "categories": [
+    {
+      "category_id": "FLW",
+      "category_name": "Flatware",
+      "description": "Restaurant-grade and luxury flatware in gold-plated, silver-plated, and matte black finishes. Available per piece or as curated 5-piece place settings (dinner knife, dinner fork, salad fork, dessert spoon, soup spoon). Minimum order of 12 pieces per SKU. All flatware is professionally cleaned, inspected, and individually wrapped before each rental.",
+      "products": [
+        {
+          "sku": "TL-FLW-GOLD-5PC-LUX",
+          "name": "Aurelian 24K Gold 5-Piece Place Setting",
+          "description": "Museum-grade 24K gold electroplated flatware on 18/10 stainless steel base. Heavy gauge at 115g per piece. Includes dinner knife, dinner fork, salad fork, dessert spoon, and soup spoon. Mirror-polished gold finish with hand-buffed detail work. Priced per individual piece; 5-piece set = $22.50/weekend. Minimum 12 pieces per order.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 4.50,
+          "price_per_piece_week": 8.10,
+          "available_quantity": 1250,
+          "image_description": "Close-up overhead shot of a 5-piece gold flatware set fanned on a white marble surface. The 24K gold catches warm directional light, showing depth in the mirror polish. A folded champagne-colored linen napkin lies beneath the arrangement."
+        },
+        {
+          "sku": "TL-FLW-ROSE-5PC-LUX",
+          "name": "Lumière Rose Gold 5-Piece Place Setting",
+          "description": "Matte-satin rose gold PVD-coated flatware on heavyweight 18/10 stainless steel. The warm blush tone is engineered to hold color through commercial washing without fading. 5-piece set includes dinner knife, dinner fork, salad fork, dessert spoon, and soup spoon. Priced per piece; 5-piece set = $26.25/weekend. Pairs exceptionally with marble chargers and blush linen.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 5.25,
+          "price_per_piece_week": 9.45,
+          "available_quantity": 750,
+          "image_description": "Flat lay of rose gold flatware arranged diagonally across a dark travertine surface. The matte-satin finish contrasts against a dusty mauve velvet napkin. Shot from directly above with soft diffused natural light emphasizing the warm blush tone."
+        },
+        {
+          "sku": "TL-FLW-SLVR-5PC-PRE",
+          "name": "Meridian Silver 5-Piece Place Setting",
+          "description": "Heavy silver-plated flatware with a bright mirror finish. 18/10 stainless steel base plated with 30 microns of genuine silver. Classical European proportions with a tapered handle that sits naturally in hand. Includes dinner knife, dinner fork, salad fork, dessert spoon, and soup spoon. Priced per piece; 5-piece set = $17.50/weekend. The workhorse luxury SKU for wedding planners ordering at volume.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 3.50,
+          "price_per_piece_week": 6.30,
+          "available_quantity": 2000,
+          "image_description": "Silver flatware set arranged in formal place-setting order on a crisp white linen tablecloth. The mirror silver finish reflects soft candlelight from the upper right of the frame. Shot at a slight angle to show the handle thickness and weight of each piece."
+        },
+        {
+          "sku": "TL-FLW-MBLK-5PC-STD",
+          "name": "Obsidian Matte Black 5-Piece Place Setting",
+          "description": "Titanium PVD matte black coating on 18/8 stainless steel. Flat contemporary handle with a squared profile. Resistant to fingerprints and smudging — ideal for events where guests handle pieces frequently. Includes dinner knife, dinner fork, salad fork, dessert spoon, and soup spoon. Priced per piece; 5-piece set = $9.25/weekend. The top-seller for editorial-aesthetic and social-forward table setups.",
+          "tier": "STD",
+          "price_per_piece_weekend": 1.85,
+          "price_per_piece_week": 3.33,
+          "available_quantity": 2500,
+          "image_description": "Matte black flatware set on a dark slate surface, shot from above. The pieces are perfectly parallel with tight spacing, creating a graphic, high-contrast composition. A single white orchid bloom is placed beside the fork. The image has a moody, editorial quality."
+        },
+        {
+          "sku": "TL-FLW-SLVR-1PC-STD",
+          "name": "Embassy Polished Silver — Single Piece",
+          "description": "Professional-grade polished stainless steel with a bright silver finish. Available per individual piece — ideal for filling in gaps or ordering à la carte (extra forks, extra spoons) without committing to a full 5-piece set. Weight: 85g per piece. Sold individually with a 12-piece minimum per order. Popular with corporate accounts that need supplemental pieces for recurring board dinners.",
+          "tier": "STD",
+          "price_per_piece_weekend": 0.95,
+          "price_per_piece_week": 1.71,
+          "available_quantity": 1200,
+          "image_description": "A single polished silver dinner fork isolated on a white seamless background. Professional product photography with a subtle shadow beneath. The piece is centered in frame, showcasing the tine detail and handle proportions at 1:1 scale."
+        }
+      ]
+    },
+    {
+      "category_id": "GLS",
+      "category_name": "Glassware",
+      "description": "Lead-free crystal and premium blown glassware in wine, champagne, water, and serving formats. All crystal glassware is machine-polished and hand-inspected before shipping. Breakage policy: replacement cost charged at retail equivalent per piece. Minimum order of 12 pieces per SKU. Packed in padded cell boxes with foam dividers.",
+      "products": [
+        {
+          "sku": "TL-GLS-CRYS-REDWN-PRE",
+          "name": "Bordeaux Crystal Red Wine Glass",
+          "description": "Full-bowl crystal red wine glass with a 22oz capacity and elongated chimney to concentrate aroma. Lead-free Schott Zwiesel-style crystal with laser-cut rim. 9.5\" height, 3.5\" base diameter. Machine-blown for uniform wall thickness. The go-to red wine glass for weddings and corporate dinners where presentation matters. Resistant to thermal shock from dishwashers. Minimum 12 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 2.75,
+          "price_per_piece_week": 4.95,
+          "available_quantity": 360,
+          "image_description": "A single Bordeaux crystal red wine glass half-filled with deep red wine, shot against a dark charcoal background. Backlit to illuminate the wine color and show the clarity of the crystal. The stem is elegant and slender; condensation on the bowl catches the light."
+        },
+        {
+          "sku": "TL-GLS-CRYS-WHTWN-PRE",
+          "name": "Sancerre Crystal White Wine Glass",
+          "description": "Tulip-shaped white wine glass with a narrower 16oz bowl designed to preserve white wine's delicate aromatics. Lead-free crystal with hand-finished rim. 8.75\" height. Pairs with the Bordeaux glass for a matched set across wine styles. Ideal for summer weddings and corporate outdoor dinners. Dishwasher-safe for post-event cleaning. Minimum 12 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 2.50,
+          "price_per_piece_week": 4.50,
+          "available_quantity": 360,
+          "image_description": "Three Sancerre crystal white wine glasses arranged in a loose triangle on a white linen tablecloth. The middle glass is filled with straw-yellow white wine. Natural daylight from the left creates a soft shadow play through the crystal stems. Clean, editorial styling."
+        },
+        {
+          "sku": "TL-GLS-CRYS-CHMP-LUX",
+          "name": "Imperiale Crystal Champagne Flute",
+          "description": "Hand-crafted lead-free crystal champagne flute with a precision-etched nucleation point at the base of the bowl to sustain a continuous stream of fine bubbles. 10oz capacity, 10\" height, feather-thin 1mm wall thickness. The hallmark of a luxury table — replaces mass-market pressed glass flutes. Arrives individually wrapped in tissue. Minimum 12 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 3.50,
+          "price_per_piece_week": 6.30,
+          "available_quantity": 240,
+          "image_description": "Two crystal champagne flutes filled with champagne on a mirrored surface at a wedding reception. Fine bubble trails rise from the nucleation points. Shot at eye level with a shallow depth of field; background reception lights blur into warm golden bokeh."
+        },
+        {
+          "sku": "TL-GLS-CRYS-GOBL-LUX",
+          "name": "Venetian Crystal Water Goblet",
+          "description": "Wide-mouthed crystal water goblet inspired by traditional Venetian glassware. 14oz capacity, 7.5\" height. Heavy base for stability on draped tables. The extra-wide bowl creates an elegant, generous silhouette that photographs beautifully from above for flat-lay tablescape shots. Hand-polished rim. Lead-free crystal with a slight refractive clarity. Minimum 12 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 3.25,
+          "price_per_piece_week": 5.85,
+          "available_quantity": 240,
+          "image_description": "Overhead flat-lay of a Venetian water goblet on a marble charger plate, surrounded by gold flatware and a linen napkin. The goblet is filled with ice water; a thin lemon wheel rests on the rim. Shot from directly above for Instagram tablescape composition."
+        },
+        {
+          "sku": "TL-GLS-CRYS-DCAN-LUX",
+          "name": "Sommelier Crystal Decanter",
+          "description": "Hand-blown lead-free crystal decanter with a wide aerating base and a 1.5-liter capacity. Designed to oxygenate full-bodied red wines over 30-45 minutes. Elegant swan-neck pour spout. 12\" height. Rented individually or in pairs for table service. One decanter per 4-6 guests is standard for formal dinners. Arrives in a custom foam-lined box. Minimum 2 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 18.00,
+          "price_per_piece_week": 32.40,
+          "available_quantity": 60,
+          "image_description": "A crystal decanter on a dark wood sideboard, half-filled with deep red wine. Ambient candlelight passes through the crystal body, casting a wine-red refraction across the surface. Shot at a 30-degree angle with a long exposure to capture the warm light quality."
+        },
+        {
+          "sku": "TL-GLS-STD-CHMP-STD",
+          "name": "Classic Champagne Coupe",
+          "description": "Vintage-style broad-bowl champagne coupe with a 6oz capacity and a heavy hexagonal stem. Machine-pressed borosilicate glass with a high-polish finish. The coupe silhouette is the icon of 1920s-inspired tablescapes, Art Deco events, and champagne tower builds. One coupe required per guest for tower service. Minimum 12 units; order 50+ for champagne tower setups.",
+          "tier": "STD",
+          "price_per_piece_weekend": 1.85,
+          "price_per_piece_week": 3.33,
+          "available_quantity": 300,
+          "image_description": "A stack of three champagne coupes in a shallow pyramid arrangement on a mirrored surface at a reception. The broad bowls catch overhead string lights and reflect them into the tablecloth below. Gold flatware is partially visible at the edge of the frame."
+        }
+      ]
+    },
+    {
+      "category_id": "CHP",
+      "category_name": "Chargers and Plates",
+      "description": "Show-stopping charger plates and fine dinnerware in luxury natural and metallic materials. Chargers are 13\" decorative base plates that remain on the table through all courses; plates are functional dinnerware for food service. Mix-and-match chargers with plates to create custom table aesthetics. Minimum 12 units per SKU. Plates arrive racked and padded for scratch-free delivery.",
+      "products": [
+        {
+          "sku": "TL-CHP-MBLE-13IN-LUX",
+          "name": "Carrara Marble Charger Plate 13\"",
+          "description": "Genuine Italian Carrara marble charger plates, each cut from a unique slab — no two pieces are identical. 13\" diameter, 0.5\" thick, with a polished top face and honed edge. Weight: 3.8 lbs per plate. The defining piece of a luxury table; creates an immediate impression of permanence and natural luxury. Non-slip rubber pad on underside prevents shifting on linen. Minimum 12 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 7.50,
+          "price_per_piece_week": 13.50,
+          "available_quantity": 180,
+          "image_description": "A Carrara marble charger plate centered on a dark linen tablecloth, with a bone china dinner plate stacked on top. Gold flatware flanks the setting. Shot from above at a slight angle to show the marble's natural grey veining. The composition is calm and architectural."
+        },
+        {
+          "sku": "TL-CHP-GOLD-13IN-PRE",
+          "name": "Hammered Gold Charger Plate 13\"",
+          "description": "Hand-hammered aluminum charger with a bright 22K gold electroplated finish. Each plate has a unique hammered texture that catches and scatters light across the table. 13\" diameter, beaded rim detail. Lightweight at 0.9 lbs for easy service. The bestselling charger for weddings — photographs brilliantly in both natural and candlelight. Minimum 12 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 5.25,
+          "price_per_piece_week": 9.45,
+          "available_quantity": 240,
+          "image_description": "Overhead flat-lay of a hammered gold charger plate on a white linen tablecloth. The textured gold surface scatters light in a starburst pattern. A linen napkin in ivory is folded in a loose knot at the center of the plate. Rose gold flatware frames the setting on each side."
+        },
+        {
+          "sku": "TL-CHP-MSLV-13IN-PRE",
+          "name": "Mirrored Silver Charger Plate 13\"",
+          "description": "High-gloss mirrored chrome charger plate that functions as a reflective surface at each place setting, amplifying candlelight and floral arrangements. 13\" diameter with a 0.75\" raised rim. Acrylic base with chrome vacuum deposition finish. Lightweight at 0.7 lbs. Ideal for evening events and indoor receptions where the mirror effect creates dramatic ambiance. Minimum 12 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 4.50,
+          "price_per_piece_week": 8.10,
+          "available_quantity": 240,
+          "image_description": "A mirrored silver charger plate reflecting a blurred candlelit centerpiece above it. The chrome surface creates a perfect inverted image of the table's floral arrangement. A white bone china dinner plate sits centered on the charger. Dramatic evening lighting."
+        },
+        {
+          "sku": "TL-PLT-BCHI-DIN-PRE",
+          "name": "Blanc Bone China Dinner Plate 10.5\"",
+          "description": "Restaurant-grade bone china dinner plate in pure optic white with a subtle embossed rim detail. 10.5\" diameter, 1\" deep rim. Bone china composition creates a warm ivory-white tone that differentiates it from stark industrial white. Vitrified for chip resistance. Stackable — arrives in padded racks. The backbone of the TableLux table: works with every charger, every flatware style. Minimum 12 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 3.75,
+          "price_per_piece_week": 6.75,
+          "available_quantity": 300,
+          "image_description": "A bone china dinner plate on a white linen surface, shot from a 45-degree angle. The plate's warm ivory-white tone and embossed rim detail are the focus. A single fresh herb sprig sits at center for scale. The image is clean and aspirational — suitable for a homepage hero."
+        },
+        {
+          "sku": "TL-PLT-BCHI-SLD-STD",
+          "name": "Blanc Bone China Salad Plate 8\"",
+          "description": "Matching 8\" salad or dessert plate in the Blanc bone china collection. Same optic white with embossed rim. Pairs with TL-PLT-BCHI-DIN-PRE for a unified place setting. Also functions as a bread plate or dessert presentation plate in formal service. Minimum 12 units.",
+          "tier": "STD",
+          "price_per_piece_weekend": 2.25,
+          "price_per_piece_week": 4.05,
+          "available_quantity": 400,
+          "image_description": "Blanc bone china salad plate stacked on top of a dinner plate, both on a hammered gold charger. The three layers create a formal place-setting composition. Shot overhead with soft directional light emphasizing the embossed rim detail of the smaller plate on top."
+        },
+        {
+          "sku": "TL-PLT-TRZT-DIN-LUX",
+          "name": "Travertine Stone Dinner Plate 11\"",
+          "description": "Genuine travertine stone dinner plates, each cut and polished individually. The natural beige-ivory stone with characteristic vein patterning creates a warm, organic luxury statement rarely seen in rental catalogs. 11\" diameter, food-safe sealed surface. Weight: 2.6 lbs per plate. Best paired with TL-CHP-GOLD-13IN-PRE and TL-FLW-ROSE-5PC-LUX for the 'Travertine Modern' tablescape. Minimum 12 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 8.50,
+          "price_per_piece_week": 15.30,
+          "available_quantity": 120,
+          "image_description": "A travertine stone dinner plate on a sand-colored linen, shot from above. The stone's natural vein pattern in warm beige and ivory tones is the hero of the composition. A small dish of olives sits at center to convey food-safe utility. The image feels Mediterranean and elevated."
+        }
+      ]
+    },
+    {
+      "category_id": "LIN",
+      "category_name": "Linens",
+      "description": "Luxury table linens sourced from European mills. Belgian linen, Silk Dupioni, and velvet options in tablecloths, napkins, and runners. All linens are pre-steamed and professionally pressed before delivery. Available in a curated palette of 8 colors per SKU. Napkins available with optional custom monogram embroidery (72-hour advance notice required, minimum 12 units per monogram order). Laundering included — no dry-cleaning surcharge.",
+      "products": [
+        {
+          "sku": "TL-LIN-BELG-60X120-PRE",
+          "name": "Belgian Linen Rectangle Tablecloth 60\"×120\"",
+          "description": "European-milled Belgian linen tablecloth in a 60\"×120\" rectangle format. Covers a standard 6-foot (72\") banquet table with an 18\" drop on each side — the proper formal drop length. 100% flax linen, 180gsm weight, pre-washed for a soft drape without stiffness. Available in: Natural Ivory, White, Dusty Rose, Sage, Slate, Charcoal, Navy, Black. Priced per cloth. Minimum 4 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 42.00,
+          "price_per_piece_week": 75.60,
+          "available_quantity": 120,
+          "image_description": "A 6-foot banquet table fully dressed in natural ivory Belgian linen, with an 18-inch floor drop. Gold flatware and crystal glasses are set at four places. Shot at a slight angle from the end of the table; the linen texture is visible in the foreground. Warm afternoon light."
+        },
+        {
+          "sku": "TL-LIN-BELG-R90-PRE",
+          "name": "Belgian Linen Round Tablecloth 90\" Diameter",
+          "description": "Round format Belgian linen tablecloth for 60\" round tables (seats 8). The 90\" diameter provides a 15\" drop — elegant without touching the floor, standard for sit-down dinners. Same 180gsm Belgian linen as the rectangle format. Available in 8 colors: Natural Ivory, White, Dusty Rose, Sage, Slate, Charcoal, Navy, Black. Priced per cloth. Minimum 4 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 38.00,
+          "price_per_piece_week": 68.40,
+          "available_quantity": 100,
+          "image_description": "Aerial view of a 60-inch round table dressed in ivory Belgian linen with an even 15-inch drop. Eight place settings of silver flatware and crystal glasses are arranged symmetrically. A low floral centerpiece sits at center. The composition is perfectly circular and formal."
+        },
+        {
+          "sku": "TL-LIN-SLKD-R120-LUX",
+          "name": "Silk Dupioni Round Tablecloth 120\" Diameter",
+          "description": "Woven Italian Silk Dupioni tablecloth in a 120\" full-coverage round format for 60\" rounds with a full floor-length pool drop. The dupioni weave creates a characteristic slub texture with an iridescent sheen that shifts between two colors at different angles. Available in four tonal colorways: Champagne/Gold, Blush/Rose, Pewter/Silver, Midnight/Navy. The highest-impact linen in the catalog. Minimum 2 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 78.00,
+          "price_per_piece_week": 140.40,
+          "available_quantity": 60,
+          "image_description": "A round dining table in a ballroom setting, draped in Champagne/Gold silk dupioni at full floor-length pool. The iridescent dupioni weave catches chandelier light and shimmers between champagne and deep gold. A 5-arm candelabra sits at center with white taper candles lit."
+        },
+        {
+          "sku": "TL-LIN-BELG-NAP-PRE",
+          "name": "Belgian Linen Dinner Napkin 20\"×20\"",
+          "description": "Heavyweight 20\"×20\" Belgian linen dinner napkin. 200gsm weight — substantial enough to hold a structured fold (bishop's hat, pocket fold, pyramid) without a stiffening spray. Pre-pressed and folded flat for delivery. Available in 8 colors matching the tablecloth range. Monogram embroidery available for an additional fee with 72-hour notice (see TL-LIN-MONO-NAP-LUX). Minimum 12 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 4.50,
+          "price_per_piece_week": 8.10,
+          "available_quantity": 600,
+          "image_description": "A Belgian linen dinner napkin folded into a loose bishop's hat fold, placed at the center of a bone china dinner plate on a hammered gold charger. The linen's natural texture is visible. A sprig of fresh eucalyptus is tucked into the fold. Shot from above, warm daylight."
+        },
+        {
+          "sku": "TL-LIN-MONO-NAP-LUX",
+          "name": "Monogrammed Linen Dinner Napkin 20\"×20\"",
+          "description": "Premium 220gsm Belgian linen dinner napkin with custom single-letter or three-letter monogram embroidered in the corner. Thread options: Gold, Silver, White, Navy, Blush. Monogram is stitched in a classic serif or contemporary sans-serif typeface (specified at order). 72-hour advance notice required from time of order. Non-refundable once embroidery begins. Minimum 12 units per monogram order.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 8.50,
+          "price_per_piece_week": 15.30,
+          "available_quantity": 300,
+          "image_description": "Close-up of a monogrammed linen napkin showing a gold-thread three-letter monogram in a classic serif typeface. The napkin is folded in a simple rectangle and placed beside a crystal water goblet. The gold thread catches the light subtly. The image feels personal and bespoke."
+        },
+        {
+          "sku": "TL-LIN-VELV-RUN-LUX",
+          "name": "Velvet Table Runner 14\"×108\"",
+          "description": "Crushed velvet table runner in a 14\"×108\" format — covers the center length of a 72\" or 96\" banquet table with a 6\"–18\" overhang on each end. Available in: Midnight Black, Emerald Green, Burgundy, Dusty Rose, Sapphire. The velvet pile creates a lush textural contrast against linen tablecloths or bare wood tables. Pair with candelabras and low floral arrangements. Minimum 4 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 22.00,
+          "price_per_piece_week": 39.60,
+          "available_quantity": 150,
+          "image_description": "A midnight black velvet table runner down the center of a rustic farmhouse table. Two 5-arm gold candelabras with lit white taper candles flank a low arrangement of white and burgundy roses along the runner. The velvet pile catches the candlelight in a rich, directional sheen."
+        }
+      ]
+    },
+    {
+      "category_id": "CNT",
+      "category_name": "Centerpiece Systems",
+      "description": "Statement centerpiece structures designed to be dressed by the event host or florist. TableLux provides the structural armature; flowers, greenery, and candles are sourced separately. All metal pieces are powder-coated or plated for scratch resistance. Heights listed are assembled heights. Disassembly instructions included with each unit. Minimum 2 units per SKU.",
+      "products": [
+        {
+          "sku": "TL-CNT-GOLD-CAN5-LUX",
+          "name": "5-Arm Grand Gold Candelabra 24\"",
+          "description": "Cast iron base with a 24\" total height and 5 arms in a symmetrical candelabra configuration. Finished in a bright gold powder coat with aged detailing at the arm joints. Each arm holds a standard 7/8\" taper candle (candles not included). The most impactful single centerpiece in the catalog — commands attention at both intimate dinner tables and 200-person ballroom receptions. Minimum 2 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 65.00,
+          "price_per_piece_week": 117.00,
+          "available_quantity": 40,
+          "image_description": "A 5-arm gold candelabra at full height on a dining table, all five taper candles lit. Shot at table level from a slight angle; the warm candlelight illuminates the faces of out-of-focus diners in the background. The gold finish glows against a dark evening reception backdrop."
+        },
+        {
+          "sku": "TL-CNT-BLCK-CAN3-LUX",
+          "name": "3-Arm Black Iron Candelabra 18\"",
+          "description": "Matte black wrought iron candelabra with 3 curved arms at 18\" total height. Lighter and more sculptural than the 5-arm version — ideal for intimate dinners (6-8 guests), smaller tables, and asymmetric arrangements. Each arm holds a standard 7/8\" taper candle. Works beautifully with velvet runners and deep-tone linen for a moody editorial aesthetic. Candles not included. Minimum 2 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 38.00,
+          "price_per_piece_week": 68.40,
+          "available_quantity": 60,
+          "image_description": "A matte black 3-arm iron candelabra on a midnight black velvet runner. Two candles are lit; one unlit. Shot at a 45-degree angle at table height. A single dark red rose lies beside the base. The image is moody and high-contrast — editorial and cinematic in quality."
+        },
+        {
+          "sku": "TL-CNT-BRAS-TER-PRE",
+          "name": "Hexagonal Brass Geometric Terrarium 12\"",
+          "description": "Open-frame brass hexagonal terrarium structure in a 12\" diameter pyramid format. Designed to hold a small floral arrangement, succulent cluster, or candle grouping inside the geometric frame. The brass finish adds a warm metallic accent that complements gold flatware and hammered chargers. Frame only — arrangement not included. Pairs with TL-CNT-MSLV-BASE-PRE for an elevated centerpiece system. Minimum 2 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 28.00,
+          "price_per_piece_week": 50.40,
+          "available_quantity": 75,
+          "image_description": "A brass hexagonal terrarium on a dining table, housing a small arrangement of white garden roses and eucalyptus inside the open frame. Shot from slightly above at a 30-degree angle. The geometric form casts a patterned shadow onto the linen beneath it. Warm afternoon light."
+        },
+        {
+          "sku": "TL-CNT-GOLD-TER-LUX",
+          "name": "Gold Geometric Pyramid Terrarium 16\"",
+          "description": "Larger-scale 16\" gold geometric pyramid terrarium with thicker 6mm hollow brass tubing and corner joints. The increased scale makes it the dominant visual element of a table centerpiece, especially when filled with a tall floral arrangement or pillar candle cluster. Frame only — arrangement not included. The top apex is open for tall stems. Minimum 2 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 45.00,
+          "price_per_piece_week": 81.00,
+          "available_quantity": 50,
+          "image_description": "A gold pyramid terrarium on a formal dining table, filled with a tall arrangement of white peonies and greenery that extends 8 inches above the apex. Shot at eye level from the end of the table so the terrarium reads as a vanishing-point centerpiece. Evening lighting."
+        },
+        {
+          "sku": "TL-CNT-MSLV-BASE-PRE",
+          "name": "Mirrored Silver Round Centerpiece Base 18\"",
+          "description": "Flat 18\" round mirror disc with a 1\" beveled edge. Functions as a reflective base for candle groupings, floral arrangements, vases, or terrarium structures. The mirror amplifies and doubles any centerpiece placed on top, adding visual height without physical height. Scratch-resistant acrylic mirror surface. Minimum 6 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 32.00,
+          "price_per_piece_week": 57.60,
+          "available_quantity": 60,
+          "image_description": "An 18-inch mirrored round base on a linen tablecloth, holding a cluster of three pillar candles and loose white rose petals. The mirror reflects the underside of the candles and the table's crystal glassware in a subtle, atmospheric inversion. Shot from a 30-degree angle."
+        },
+        {
+          "sku": "TL-CNT-SMKE-BASE-LUX",
+          "name": "Smoked Glass Oval Centerpiece Base 24\"",
+          "description": "A 24\"×16\" smoked charcoal glass oval base, 0.375\" thick with a polished edge. Unlike clear or mirrored options, the smoked glass provides a moody, dark reflective surface that suits dark-palette tablescapes (Midnight Moody, Black and Gold). Tempered for impact resistance. The largest centerpiece base in the catalog — anchors dramatic arrangements on 60\" rounds. Minimum 4 units.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 55.00,
+          "price_per_piece_week": 99.00,
+          "available_quantity": 35,
+          "image_description": "A smoked charcoal glass oval base at the center of a formal dining table with black linen. Three dark pillar candles of varying heights sit on the base, surrounded by scattered dried black botanicals. The dark glass creates a near-invisible bottom, giving the arrangement a floating quality."
+        }
+      ]
+    },
+    {
+      "category_id": "SRV",
+      "category_name": "Serving Pieces",
+      "description": "Statement serving and display pieces for food presentation, dessert service, and beverage service. Designed for use during the event and as decorative elements before and after food service. All pieces are food-safe. Includes cheese boards, cake stands, champagne towers, and bar service pieces. Minimum 1 unit per SKU (no quantity minimum on serving pieces).",
+      "products": [
+        {
+          "sku": "TL-SRV-MRBL-CHZB-PRE",
+          "name": "Carrara Marble Cheese Board 16\"×10\" with Gold Handles",
+          "description": "Genuine Carrara marble cheese and charcuterie board measuring 16\"×10\" with two cast brass handles finished in polished gold. The marble surface is cold and non-porous — ideal for soft cheese display. Each board is unique due to the natural stone variation. Includes a removable gold cheese knife and spreader set. Food-safe sealed underside. Arrives in a padded carry bag. Minimum 1 unit.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 35.00,
+          "price_per_piece_week": 63.00,
+          "available_quantity": 45,
+          "image_description": "A Carrara marble cheese board on a linen tablecloth, styled with three varieties of cheese, grapes, and honeycomb. The gold handles frame the composition. Shot from above at a slight tilt; the grey marble veining is the background texture that elevates the food styling."
+        },
+        {
+          "sku": "TL-SRV-GOLD-CAKS-PRE",
+          "name": "3-Tier Gold Cake Stand",
+          "description": "Three-tier gold-finished metal cake stand with 12\", 9\", and 6\" tiers at heights of 4\", 8\", and 12\". Can be used fully assembled for a wedding cake display or separated into individual stands for dessert buffets and macaron towers. The screw-post assembly allows single-person setup in under 5 minutes. Each tier has a non-slip felt liner. Holds up to 12 lbs per tier. Minimum 1 unit.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 42.00,
+          "price_per_piece_week": 75.60,
+          "available_quantity": 30,
+          "image_description": "A 3-tier gold cake stand holding a two-tier white wedding cake with buttercream finish. The gold tiers frame the cake elegantly at a reception. Shot at a 30-degree angle at dessert table height. Floral petals are scattered at the base. Out-of-focus reception décor in background."
+        },
+        {
+          "sku": "TL-SRV-CRYS-CHMP-LUX",
+          "name": "Crystal Champagne Tower Stand — 7-Tier (Serves 40)",
+          "description": "Engineered acrylic and powder-coated steel tower frame that holds 7 tiers of champagne coupes (coupes not included — rent TL-GLS-STD-CHMP-STD separately). The tower holds 1 + 4 + 9 + 16 + 25 + 36 + 49 = pyramid structure up to 105 coupes, but the standard 7-tier service-ready configuration uses 40 coupes for stability. Base footprint: 24\"×24\". Tower height: 48\" fully assembled. Requires 3-person setup. Includes assembly manual and 1-hour setup support call. Minimum 1 unit.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 145.00,
+          "price_per_piece_week": 261.00,
+          "available_quantity": 15,
+          "image_description": "A 7-tier champagne tower at a wedding reception, fully loaded with coupes and lit from below by an LED base light. A pair of hands pours champagne into the top coupe; the liquid cascades down through each tier. Reception guests in formal attire are visible in soft focus behind."
+        },
+        {
+          "sku": "TL-SRV-GOLD-ICBK-PRE",
+          "name": "Hammered Gold Ice Bucket with Tongs",
+          "description": "Hand-hammered double-walled stainless steel ice bucket with a 22K gold electroplated exterior finish. 3.5-liter capacity — holds enough ice for one 750ml bottle plus serving. Includes a matching gold-plated tong set. The double-wall construction keeps ice for 3-4 hours without a water pan. Ideal for wine service at dinner tables or individual table placement for corporate events. Minimum 2 units.",
+          "tier": "PRE",
+          "price_per_piece_weekend": 28.00,
+          "price_per_piece_week": 50.40,
+          "available_quantity": 50,
+          "image_description": "A hammered gold ice bucket on a white linen tablecloth, holding a champagne bottle with the foil cap visible above the ice. The hammered texture catches table candlelight in an irregular pattern. A matching gold tong rests across the bucket rim. Shot at table level, close-up."
+        },
+        {
+          "sku": "TL-SRV-SLVR-CHZB-STD",
+          "name": "Silver Slate Cheese Board 14\"×8\"",
+          "description": "Natural slate board with chrome-finished edge banding and two stainless steel handles. 14\"×8\" format suitable for individual table placements at smaller dinners (4-6 guests) or dessert station builds. The dark slate surface creates a high-contrast backdrop for light-colored cheeses and labels. Food-safe slate; arrives with a chalk pencil for labeling cheese varieties. Minimum 2 units.",
+          "tier": "STD",
+          "price_per_piece_weekend": 18.00,
+          "price_per_piece_week": 32.40,
+          "available_quantity": 60,
+          "image_description": "A slate cheese board labeled with chalk cheese names and styled with a wedge of aged cheddar, sliced prosciutto, and a small ramekin of fig jam. Shot from above with a white linen surface and silver flatware at the edge of the frame. Bright, clean natural daylight."
+        },
+        {
+          "sku": "TL-SRV-BLCK-CAKS-LUX",
+          "name": "Matte Black & Gold 3-Tier Cake Stand",
+          "description": "Matte black powder-coated 3-tier cake stand with gold accent ring detailing at each tier edge and the central post. Tiers: 12\", 9\", 6\" at heights 4\", 8\", 12\". The black-and-gold combination is the signature of the 'Midnight Moody' and 'Black Tie' table aesthetics and has the highest rate of social media tagging of any serving piece in the catalog. Non-slip felt liners included. Holds 12 lbs per tier. Minimum 1 unit.",
+          "tier": "LUX",
+          "price_per_piece_weekend": 58.00,
+          "price_per_piece_week": 104.40,
+          "available_quantity": 25,
+          "image_description": "A matte black and gold 3-tier cake stand holding a black-frosted wedding cake with gold geometric fondant detailing. The stand is on a dark velvet tablecloth with gold candelabras flanking it. Shot at a 30-degree angle in dramatic low-key lighting. Moody and editorial."
+        }
+      ]
+    }
+  ]
+}
